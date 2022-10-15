@@ -9,17 +9,17 @@ const customTheme = {
   },
   colors: {
     brand: {
+      brokenWhite: "#fffffc",
       olive: "#b8e0d2",
       orange: "#ffd6a5",
       purple: "#bdb2ff",
+      yellow: "#fdffb6",
+      violet: "#ffc6ff",
       // blue: "#9bf6ff",
-      // brokenWhite: "#fffffc",
       // darkBlue: "#a0c4ff",
       // darkGrey: "#666666",
       // green: "#caffbf",
       // red: "#ffadad",
-      // violet: "#ffc6ff",
-      // yellow: "#fdffb6",
     },
   },
 };
