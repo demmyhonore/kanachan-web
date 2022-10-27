@@ -1,6 +1,5 @@
+import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 import type { AppProps } from "next/app";
-import { ChakraProvider } from "@chakra-ui/react";
-import { extendTheme } from "@chakra-ui/react";
 
 const customTheme = {
   fonts: {
@@ -15,6 +14,7 @@ const customTheme = {
       purple: "#bdb2ff",
       yellow: "#fdffb6",
       violet: "#ffc6ff",
+      violetTransparant: "rgba(255, 198, 255, 0.8)",
       // blue: "#9bf6ff",
       // darkBlue: "#a0c4ff",
       // darkGrey: "#666666",
